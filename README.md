@@ -5,7 +5,7 @@
 
 It is a fun app for children to learn Musical notes.
 
-<img src="https://i.imgur.com/tYUJHK5.png" width="250">
+<img src="https://i.imgur.com/Pdhzc7N.png" width="250"> <img src="https://i.imgur.com/eorZtbn.png" width="250"> <img src="https://i.imgur.com/M3lgdSU.png" width="250">
 
 
 ## What I learned
