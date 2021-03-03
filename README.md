@@ -3,7 +3,7 @@
 
 <a href="https://play.google.com/store/apps/details?id=co.deeprodge.xylophone"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/1280px-Google_Play_Store_badge_EN.svg.png" width="250"> </a>
 
-## What is does?
+## What it does?
 
 It is a fun app for children to learn Musical notes.
 
